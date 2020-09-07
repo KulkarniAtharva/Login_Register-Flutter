@@ -11,7 +11,7 @@ Simple basic authentication app designed in Flutter.
 
  <table style="width:100%">
   <tr>
-    <th>Wecome</th>
+    <th>Welcome</th>
     <th>Login</th>
     <th>Register</th>
   </tr>
